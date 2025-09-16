@@ -4,17 +4,17 @@ A system designed to detect micro-sleeps in real time, by monitoring eye behavio
 
 ---
 
-## Table of Contents
+## 📌Table of Contents
 
 - [Overview](#overview)  
-- [Features](#features)  
+- [✨Features](#-features)  
 - [Motivation](#motivation)  
 - [Architecture & Components](#architecture--components)  
 - [Setup & Installation](#setup--installation)  
 - [Usage](#usage)  
 - [Screenshots / Figures](#screenshots--figures)  
-- [Contributing](#contributing)  
-- [Future Work](#future-work)  
+- [🤝Contributing](#-contributing)  
+- [🔮Future Work](#-future-work)  
 
 ---
 
@@ -24,7 +24,7 @@ Micro-sleep refers to brief, involuntary episodes of loss of attention which can
 
 ---
 
-## Features
+## ✨Features
 
 - Real-time monitoring of eye behaviour  
 - Detection of prolonged eye closure or blink patterns indicative of drowsiness  
@@ -61,7 +61,7 @@ Micro-sleep refers to brief, involuntary episodes of loss of attention which can
    ```bash
    git clone https://github.com/Akash-R-04/Micro-Sleep-Detection-system.git
    cd Micro-Sleep-Detection-system
-2. Install dependencies:
+2. Install dependencies🛠️:
  - If using Arduino, ensure you have the Arduino IDE installed.
  - If using any external libraries (e.g. OpenCV / eye detection models), install them via your package manager (e.g. pip install opencv-python).
 3. Upload the firmware / code to your microcontroller. For example, if using the nmit_project.ino, open it in Arduino IDE and upload.
@@ -73,31 +73,24 @@ Usage
 3. Let the detection algorithm run. It will monitor eye state in real time.
 4. When micro-sleep or drowsiness is detected, the system raises an alert (LED / sound / buzzer).
 
-Screenshots / Figures
+## Screenshots / Figures
 Here are some illustrative figures from the repo:
 
 
-Fig1 [!Fig1()]
+📉 [![Fig1](https://github.com/Akash-R-04/Micro-Sleep-Detection-system/blob/main/fig1.jpg)]
+Dashboard [![Fig2](https://github.com/Akash-R-04/Micro-Sleep-Detection-system/blob/main/fig2.jpg)]
+[![Fig3](https://github.com/Akash-R-04/Micro-Sleep-Detection-system/blob/main/fig3.jpg)]
+📉 [![Fig4](https://github.com/Akash-R-04/Micro-Sleep-Detection-system/blob/main/fig4.jpg)]
 
-
-Caption: …
-
-
-Caption: …
-
-
-Caption: …
-
-
-Contributing
-Contributions are welcome! If you have suggestions, bug fixes, or enhancements:
+🤝Contributing
+Contributions are welcome! 🎉 If you have suggestions, bug fixes, or enhancements:
 1. Fork the repository
 2. Create a new branch (git checkout -b feature-yourfeature)
 3. Make your changes and commit with meaningful messages
 4. Push to your branch
 5. Open a Pull Request describing what you’ve done
 
-Future Work
+🔮Future Work
 Potential improvements or expansions include:
 1. More robust facial landmark detection in low light / occlusion
 2. Integration with machine learning models for higher-accuracy fatigue detection
