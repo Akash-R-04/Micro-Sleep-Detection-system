@@ -6,7 +6,7 @@ A system designed to detect micro-sleeps in real time, by monitoring eye behavio
 
 ## 📌Table of Contents
 
-- [Overview](#overview)  
+- 📖 [Overview](#-overview)  
 - [✨Features](#-features)  
 - [Motivation](#motivation)  
 - [Architecture & Components](#architecture--components)  
@@ -18,7 +18,7 @@ A system designed to detect micro-sleeps in real time, by monitoring eye behavio
 
 ---
 
-## Overview
+## 📖 Overview
 
 Micro-sleep refers to brief, involuntary episodes of loss of attention which can last a few seconds. The **Micro-Sleep Detection System** aims to monitor signs of fatigue (e.g. prolonged eye closure or nodding) and raise alerts so that users (especially drivers, machine operators etc.) can avoid dangerous lapses in attention.
 
@@ -77,10 +77,10 @@ Usage
 Here are some illustrative figures from the repo:
 
 
-📉 [![Fig1](https://github.com/Akash-R-04/Micro-Sleep-Detection-system/blob/main/fig1.jpg)]
-Dashboard [![Fig2](https://github.com/Akash-R-04/Micro-Sleep-Detection-system/blob/main/fig2.jpg)]
-[![Fig3](https://github.com/Akash-R-04/Micro-Sleep-Detection-system/blob/main/fig3.jpg)]
-📉 [![Fig4](https://github.com/Akash-R-04/Micro-Sleep-Detection-system/blob/main/fig4.jpg)]
+📉 [![Fig1](https://github.com/Akash-R-04/Micro-Sleep-Detection-system/blob/main/fig1.jpg)]()
+Dashboard [![Fig2](https://github.com/Akash-R-04/Micro-Sleep-Detection-system/blob/main/fig2.jpg)]()
+[![Fig3](https://github.com/Akash-R-04/Micro-Sleep-Detection-system/blob/main/fig3.jpg)]()
+📉 [![Fig4](https://github.com/Akash-R-04/Micro-Sleep-Detection-system/blob/main/fig4.jpg)]()
 
 🤝Contributing
 Contributions are welcome! 🎉 If you have suggestions, bug fixes, or enhancements:
