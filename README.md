@@ -96,7 +96,3 @@ Potential improvements or expansions include:
 2. Integration with machine learning models for higher-accuracy fatigue detection
 3. Adding a mobile app / dashboard for logging & statistics
 4. Deploying on smaller, more efficient boards / optimizing for power consumption
-
-Adding a mobile app / dashboard for logging & statistics
-
-Deploying on smaller, more efficient boards / optimizing for power consumption
